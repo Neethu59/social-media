@@ -1,0 +1,43 @@
+#in
+{
+    
+    
+    width: 80%;
+    height: 20%;
+    border: radius 25px; 
+}
+
+.fb
+{
+    float: right;
+    margin-left: 10%;
+margin-top:10% ;
+width: 30%;
+
+
+}
+.fc
+{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+#colr
+{
+    color: blue;
+    font-weight: 700;
+}
+#btn
+{
+    background-color: blue;
+    color: white;
+    width: 80%;
+    height: 20%;
+}
+#bttn
+{ background-color: rgb(80, 189, 80);
+    color: white;
+    width: 50%;
+    height: 15%;margin-left: 13%;
+
+
+}

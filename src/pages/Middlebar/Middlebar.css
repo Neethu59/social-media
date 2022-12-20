@@ -1,0 +1,96 @@
+.span1
+{
+    color:rgb(133, 129, 129);
+    padding-left: 1%;
+}
+#middlebar
+{
+padding: 2%;
+font-size:15px;
+width: 100%;
+
+}
+#i21
+{
+    padding-left: 1%;
+    color: orange;
+}
+#but
+{
+    background-color: green;
+    color: white;
+    margin-left: 15%;
+    border-radius: 20%;
+}
+#box
+{box-sizing: border-box 1px solid black; 
+    width: 50%;
+}
+#i22
+{
+    padding-left: 1%;
+    color:blue;
+}
+#i23
+{
+    padding-left: 1%;
+    color:green;
+}
+#i24
+{
+    padding-left: 1%;
+    color:orange;
+}
+#sp1
+{
+    padding-left: 1%;
+    font-size: large; 
+}
+#sp2
+{ padding-left: 3%;
+    font-size: small; 
+}
+#middlebar1
+{
+padding: 2%;
+}
+#im2
+{
+    height: 100%;
+    width:100% ;
+}
+
+.col-sm-5
+{
+    max-width: 100%;
+    height: 98%;
+    display: block;
+    /* margin-left: 10%; */
+}
+#ig
+{
+    margin-top: 15%;
+}
+#bo1
+{
+    box-sizing: content-box;
+    box-shadow:1px 1px grey;
+    margin-top: 10%;
+    
+}
+#bo2
+{
+    box-sizing: content-box;
+    box-shadow:  1px 1px grey;
+    /* border: 1px solid black; */
+margin-top: 25%;
+padding-bottom: 5%;
+}
+#comment
+{
+    padding-left: 65%;
+}
+#like
+{
+    color: blue;
+}

@@ -1,0 +1,50 @@
+#gift
+{
+    height: 10%;
+    width: 10%;
+    
+    
+}
+.gift1
+{
+
+    display: inline-flex;
+     font-size: small; 
+     /* margin-left: 9%;  */
+     /* margin-right: 10%; */
+}
+#para
+{
+    height:50%;
+    
+    margin-top: 4%;
+    font-weight: 400;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+#para1
+{
+    margin-top: 4%;
+}
+#food
+{
+    
+    margin-top: 5%;
+    border-radius: 8%;
+    height: 90%;
+    width: 99%;
+}
+#online
+{
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+#onlin
+{
+    background-color: green;
+    height: 10%;
+    width: 10%;
+}

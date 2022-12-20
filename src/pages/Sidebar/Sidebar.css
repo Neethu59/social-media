@@ -1,0 +1,50 @@
+
+.span{
+  padding-left: 15%; 
+ } 
+.sidebarrow
+{
+  margin-top: 2%;
+  
+}
+#sidebarrow1
+{
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 800px;
+  max-width: max-content;
+
+}
+.listrow
+{
+  margin-left: 2%;
+}
+#buttonrow
+{
+  padding: 11px;
+}
+#button1
+{
+  height: 40px;
+  display: flex;
+  border-radius: 13px;
+  font-size: 13px;
+  padding-left: 11%;
+  padding-right: 11%;
+  margin-top: 4%;
+}
+#image
+{
+  border-radius: 50%;
+  height: 10%;
+  width: 10%;
+}
+#h6
+{
+  padding-top: 2%;
+}
+.col-sm-3
+{
+  max-width: 20%;
+}

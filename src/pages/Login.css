@@ -1,0 +1,34 @@
+#rig
+{
+  margin-left: 50%; 
+  height: 20%;
+  background-color: antiquewhite;
+  width: 20%;
+  padding-left: 5%;
+
+}
+#lef
+{
+    margin-top: 15%;
+    margin-left: 5%;
+}
+#fa
+{
+    color: blue;
+}
+#log
+{
+    background-color: blue;
+    color: white;
+}
+#create
+{
+    background-color: green;
+    color: white; 
+}
+#input
+{
+    height: 30%;
+    
+}
+
